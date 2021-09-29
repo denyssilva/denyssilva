@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @denyssilva :neckbeard:;
+- 👋 Hi, I’m @denyssilva :neckbeard: :grin:	:smiley:;
 - 👀 I’m interested in studies, music, movies, books and sports;
 - 🌱 I’m currently learning HTML, CSS, JS, MySQL and PHP;
 - 📫 How to reach me on instagram: @denys.silva.1
